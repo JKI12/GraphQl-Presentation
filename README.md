@@ -20,6 +20,7 @@ docker run -p 3000:3000 IMAGE_ID
 # Pulling the docker image
 If you dont fancy building the code and just want to run the presentation then you can run this command
 ```
+(may have to run) docker pull thatsourjake/graph_pres
 docker run -p 3000:3000 thatsourjake/graph_pres
 ```
 
